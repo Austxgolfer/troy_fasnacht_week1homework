@@ -1,0 +1,235 @@
+
+body {
+    width: 960px;
+    height: 100%;
+    margin: 0 auto 0 auto;
+}
+#about {
+    float: left;
+    position: relative;
+    text-align: right;
+    width: 536px;
+    height:20px;
+    padding:20px;
+    background:#ffffff;
+}
+
+#namebox {
+    position: absolute;
+    top: 0px;
+    left:120px;
+    text-align: center;
+    width: 125px;
+    height:20px;
+    padding:20px;
+    background: #4aaaa5;
+    color:#ffffff;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#Portfolio {
+    float: left;
+    text-align: center;
+    width:104px;
+    height:20px;
+    padding:20px;
+    background:#ffffff;
+}
+
+#contact {
+    float: left;
+    text-align: left;
+    width:200px;
+    height:20px;
+    padding:20px;
+    background:#ffffff;
+}
+
+#Middle {
+    position: relative;
+    top:60px;
+    height:500px;
+    width:960px;
+    border-top:3px;
+    border-top-color: #cccccc;
+    border-top-style: solid;
+    border-bottom-color:#4aaaa5; 
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    background-image: url("../images/crossline-dots.png");
+}
+
+#aboutmebox {
+    position: absolute;
+    top:30px;
+    left:120px;
+    height: 390px;
+    width:720px;
+    background: #ffffff;
+}
+
+#abouttop {
+    height:45px;
+    width:660px;
+    background: #ffffff;
+    color:#4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 30px;
+    margin:20px;
+    padding:10px;
+    border-color:#cccccc; 
+    border-bottom-width: 5px;
+    border-bottom-style: solid;
+    
+}
+
+#abouttext {
+    width:720px;
+    position:absolute;
+    top:100px;
+    bottom:0;
+    background: #ffffff;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 20px;
+}
+p {
+    margin-Left:20px;
+    margin-right:20px;
+}
+#profilepic {float: left;
+    margin:20px;
+    margin-bottom: 
+    0px;
+    height:200px;   
+    width: 200px; 
+    background-image: url("../images/profileimage.jpg");
+}
+    
+
+footer {position: absolute;
+        top:568px;
+        height: 30px;
+        width: 960px;
+        background:#666666; 
+        text-align:center;
+        color:#ffffff;
+        font: size 10px;  
+}
+#formbox {
+    position: absolute;
+    top:30px;
+    left:120px;
+    height: 360px;
+    width:720px;
+    background: #ffffff;
+}
+#formtop {
+        height:30px;
+        width:660px;
+        background: #ffffff;
+        color:#4aaaa5;
+        font-family: 'Georgia', Times, Times New Roman, serif;
+        font-size: 30px;
+        margin:20px;
+        padding:10px;
+        border-color:#cccccc; 
+        border-bottom-width: 5px;
+        border-bottom-style: solid;
+}
+form {
+    width: 660px;
+    position:absolute;
+    top:100px;
+    bottom:0;
+    background: #ffffff;
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 20px;
+  
+
+}
+
+#name { 
+    float: left;
+    padding-right: 40px;
+    padding-left:40px;
+    padding-bottom: 20px;
+}
+#email {
+    float: left;
+    padding-right: 40px;
+    padding-left:40px;
+    padding-bottom: 20px;
+        
+}
+#message {
+    float: left;
+    padding-right: 40px;
+    padding-left:40px;
+        
+}
+#portfoliobox {
+    position: absolute;
+    top:10px;
+    left:120px;
+    height: 450px;
+    width:720px;
+    background: #ffffff;
+}
+#hangman { 
+    position: absolute;
+    top: 100px;
+    left:140px;
+    width:200px;
+    height: 110px;
+    background-image: url("../images/hangman.jpg")
+    
+    
+}
+#rpg {
+    position: absolute;
+    top: 100px;
+    left:360px;
+    width:200px;
+    height: 110px;
+    background-image: url("../images/rpg.jpg")
+        
+}
+#trivia {
+    position: absolute;
+    top: 220px;
+    left:140px;
+    width:200px;
+    height: 110px;
+    background-image: url("../images/place1.jpg")
+        
+}
+#rutgers {
+    position: absolute;
+    top: 220px;
+    left:360px;
+    width:200px;
+    height: 110px;
+    background-image: url("../images/widget.jpg") 
+        
+}
+#rps {
+    position: absolute;
+    top: 340px;
+    left:140px;
+    width:200px;
+    height: 110px;
+    background-image: url("../images/place5.jpg")
+}
+
+.banner {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    background-color: #4aaaa5;
+    margin-top: 60px;
+    padding:10px;
+    text-align: center;
+    color: #ffffff;
+    font-weight: 200;
+
+
+}
